@@ -1,0 +1,164 @@
+[
+    {
+        "id": 1,
+        "nama": "Nasi Goreng Spesial",
+        "deskripsi": "Nasi goreng dengan telur mata sapi, ayam suwir, dan kerupuk udang pilihan",
+        "harga": 35000,
+        "kategori": "makanan-utama",
+        "gambar": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=400&h=300&fit=crop&auto=format",
+        "badge": "Best Seller"
+    },
+    {
+        "id": 2,
+        "nama": "Ayam Bakar Madu",
+        "deskripsi": "Ayam kampung bakar dengan saus madu khas, disajikan dengan sambal dan lalapan",
+        "harga": 42000,
+        "kategori": "makanan-utama",
+        "gambar": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=400&h=300&fit=crop&auto=format",
+        "badge": null
+    },
+    {
+        "id": 3,
+        "nama": "Rendang Sapi",
+        "deskripsi": "Rendang daging sapi empuk dimasak dengan rempah tradisional Minang selama 4 jam",
+        "harga": 55000,
+        "kategori": "makanan-utama",
+        "gambar": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=400&h=300&fit=crop&auto=format",
+        "badge": "Premium"
+    },
+    {
+        "id": 4,
+        "nama": "Sate Ayam",
+        "deskripsi": "10 tusuk sate ayam dengan bumbu kacang khas dan lontong sayur",
+        "harga": 30000,
+        "kategori": "makanan-utama",
+        "gambar": "https://images.unsplash.com/photo-1529563021893-cc83c992d75d?w=400&h=300&fit=crop&auto=format",
+        "badge": null
+    },
+    {
+        "id": 5,
+        "nama": "Ikan Bakar Jimbaran",
+        "deskripsi": "Ikan kakap bakar dengan bumbu Bali yang kaya rempah dan sambal matah",
+        "harga": 65000,
+        "kategori": "makanan-utama",
+        "gambar": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?w=400&h=300&fit=crop&auto=format",
+        "badge": "Chef's Choice"
+    },
+    {
+        "id": 6,
+        "nama": "Mie Goreng Seafood",
+        "deskripsi": "Mie goreng spesial dengan udang, cumi, dan sayuran segar pilihan",
+        "harga": 38000,
+        "kategori": "makanan-utama",
+        "gambar": "https://images.unsplash.com/photo-1585032226651-759b368d7246?w=400&h=300&fit=crop&auto=format",
+        "badge": null
+    },
+    {
+        "id": 7,
+        "nama": "Es Teh Manis",
+        "deskripsi": "Teh manis dingin yang menyegarkan, dibuat dari teh pilihan berkualitas",
+        "harga": 8000,
+        "kategori": "minuman",
+        "gambar": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=400&h=300&fit=crop&auto=format",
+        "badge": null
+    },
+    {
+        "id": 8,
+        "nama": "Jus Alpukat",
+        "deskripsi": "Jus alpukat segar dengan susu coklat dan sirup gula aren asli",
+        "harga": 18000,
+        "kategori": "minuman",
+        "gambar": "https://images.unsplash.com/photo-1623065422902-30a2d299bbe4?w=400&h=300&fit=crop&auto=format",
+        "badge": "Favorit"
+    },
+    {
+        "id": 9,
+        "nama": "Kopi Susu Abidzar",
+        "deskripsi": "Es kopi susu dengan espresso robusta dan susu segar, manis creamy",
+        "harga": 22000,
+        "kategori": "minuman",
+        "gambar": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=400&h=300&fit=crop&auto=format",
+        "badge": "Best Seller"
+    },
+    {
+        "id": 10,
+        "nama": "Smoothie Mangga",
+        "deskripsi": "Smoothie mangga harum manis segar dengan yogurt dan madu alami",
+        "harga": 25000,
+        "kategori": "minuman",
+        "gambar": "https://images.unsplash.com/photo-1546173159-315724a31696?w=400&h=300&fit=crop&auto=format",
+        "badge": null
+    },
+    {
+        "id": 11,
+        "nama": "Es Krim Kelapa",
+        "deskripsi": "Es krim homemade rasa kelapa dengan topping kelapa parut dan gula aren",
+        "harga": 20000,
+        "kategori": "dessert",
+        "gambar": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?w=400&h=300&fit=crop&auto=format",
+        "badge": null
+    },
+    {
+        "id": 12,
+        "nama": "Puding Coklat",
+        "deskripsi": "Puding coklat lembut dengan vla vanilla dan saus caramel yang nikmat",
+        "harga": 15000,
+        "kategori": "dessert",
+        "gambar": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=400&h=300&fit=crop&auto=format",
+        "badge": null
+    },
+    {
+        "id": 13,
+        "nama": "Pisang Goreng Coklat",
+        "deskripsi": "Pisang raja goreng crispy dengan lelehan coklat Belga dan keju parut",
+        "harga": 22000,
+        "kategori": "dessert",
+        "gambar": "https://images.unsplash.com/photo-1600326145552-327f74b9c189?w=400&h=300&fit=crop&auto=format",
+        "badge": "Favorit"
+    },
+    {
+        "id": 14,
+        "nama": "Klepon Ubi",
+        "deskripsi": "Klepon dari ubi ungu dengan isian gula Jawa dan taburan kelapa segar",
+        "harga": 18000,
+        "kategori": "dessert",
+        "gambar": "https://images.unsplash.com/photo-1559598467-f8b76c8155d0?w=400&h=300&fit=crop&auto=format",
+        "badge": null
+    },
+    {
+        "id": 15,
+        "nama": "Tahu Crispy",
+        "deskripsi": "Tahu goreng renyah dengan bumbu tabur pedas dan saus sambal khas",
+        "harga": 15000,
+        "kategori": "snack",
+        "gambar": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=400&h=300&fit=crop&auto=format",
+        "badge": null
+    },
+    {
+        "id": 16,
+        "nama": "Tempe Mendoan",
+        "deskripsi": "Tempe mendoan tipis goreng renyah dengan saus kecap dan cabai rawit",
+        "harga": 12000,
+        "kategori": "snack",
+        "gambar": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=400&h=300&fit=crop&auto=format",
+        "badge": null
+    },
+    {
+        "id": 17,
+        "nama": "Lumpia Goreng",
+        "deskripsi": "Lumpia isi rebung dan udang segar, goreng hingga keemasan dan renyah",
+        "harga": 18000,
+        "kategori": "snack",
+        "gambar": "https://images.unsplash.com/photo-1606525437817-0574ed3e1047?w=400&h=300&fit=crop&auto=format",
+        "badge": null
+    },
+    {
+        "id": 18,
+        "nama": "Kentang Goreng",
+        "deskripsi": "Kentang goreng crinkle cut dengan saus sambal mayo dan keju leleh",
+        "harga": 20000,
+        "kategori": "snack",
+        "gambar": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&h=300&fit=crop&auto=format",
+        "badge": null
+    }
+]
